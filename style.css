@@ -19,6 +19,7 @@ body {
 }
 
 .items {
+  overflow: hidden;
   height: 800px;
   padding: 100px;
   width: 100%;
